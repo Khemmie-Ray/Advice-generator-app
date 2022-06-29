@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Khemmie-Ray/Advice-generator-app.git](https://github.com/Khemmie-Ray/Advice-generator-app.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [ https://khemmie-ray.github.io/Advice-generator-app/](https://khemmie-ray.github.io/Advice-generator-app/)
 
 ## My process
 
