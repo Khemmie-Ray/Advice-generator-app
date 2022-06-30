@@ -21,8 +21,8 @@ body,
 }
 
 .container {
-    width: 50%;
-    height: 350px;
+    width: 45%;
+    height: 320px;
     max-height: 400px;
     position: relative;
     border-radius: 20px;
@@ -35,9 +35,9 @@ body,
 
 .Btn {
     bottom: 0;
-    margin-bottom: -2em;
+    margin-bottom: -2.5em;
     background-color: hsl(150, 100%, 66%);
-    padding: 1.5em 1.5em 1.2em;
+    padding: 1.7em 1.7em 1.4em;
     border-radius: 50%;
     border: none;
     cursor: pointer;
@@ -56,18 +56,18 @@ body,
 .title {
     color: hsl(150, 100%, 66%);
     text-transform: uppercase;
-    top: 10%;
+    top: 7%;
 }
 
 .divider {
-    bottom: 20%;
+    bottom: 16%;
     width: 80%;
 }
 
 #adviceText {
     text-align: center;
     font-size: 28px;
-    width: 80%;
+    width: 85%;
     padding: .5em;
     color: hsl(193, 38%, 86%);
 }
