@@ -5,7 +5,7 @@ document.getElementById('get-advice').addEventListener('click', () => {
             document.getElementById('adviceId').textContent = 
             `ADVICE #${data.slip.id}`
             document.getElementById('adviceText').textContent =
-            `${data.slip.advice}`
+            `"${data.slip.advice}"`
         })
 })
 
