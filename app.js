@@ -4,8 +4,9 @@ document.getElementById('get-advice').addEventListener('click', () => {
         .then(data => {
             document.getElementById('adviceId').textContent = 
             `ADVICE #${data.slip.id}`
-            document.getElementById('adviceText').textContent =
-            `"${data.slip.advice}"`
+            document.getElementById('adviceText').innerHTML =
+            `<h1 class="text"><i class="ri-double-quotes-l"></i>
+             ${data.slip.advice} <i class="ri-double-quotes-r"></i>`
         })
 })
 

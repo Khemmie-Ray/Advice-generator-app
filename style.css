@@ -64,7 +64,7 @@ body,
     width: 80%;
 }
 
-#adviceText {
+.text {
     text-align: center;
     font-size: 28px;
     width: 85%;
